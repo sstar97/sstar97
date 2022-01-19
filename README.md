@@ -2,12 +2,6 @@
 
 <p align="center"> <a href="https://twitter.com/smhyilthez" target="blank"><img src="https://img.shields.io/twitter/follow/smhyilthez?logo=twitter&style=for-the-badge" alt="smhyilthez" /></a> </p>
 
-<p align="center">
-  <p align="center">
-    📝 I regularly write articles on [www.dogrukod.com](www.dogrukod.com)
-  </p>
-</p>
-
 <p align="center">- 📝 I regularly write articles on [www.dogrukod.com](www.dogrukod.com)</p>
 
 <p align="center">- 📫 How to reach me **semihyildiz1997@gmail.com**</p>
