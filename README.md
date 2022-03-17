@@ -22,6 +22,6 @@
 <p align="center">
   <img alt="sstar97's visitors" src="https://komarev.com/ghpvc/?username=sstar97&color=ca4e33&style=flat&label=visitors" />
   <img alt="sstar97's followers" src="https://img.shields.io/github/followers/sstar97?color=ca4e33" />
-  <img alt="sstar97's stars" src="https://img.shields.io/github/stars/appinha?color=ca4e33" />
+  <img alt="sstar97's stars" src="https://img.shields.io/github/stars/sstar97?color=ca4e33" />
 </p>
  
