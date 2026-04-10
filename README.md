@@ -16,8 +16,17 @@
 <h3 align="center">Support:</h3>
 <p align="center"><a href="https://www.buymeacoffee.com/smhyilthez"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="smhyilthez" /></a></p><br><br>
 
-| [![sstar97's GitHub stats](https://github-readme-stats.vercel.app/api?username=sstar97&count_private=true&show_icons=true&hide=issues&hide_border=true&theme=radical)](https://github.com/sstar97?tab=repositories) | [![sstar97's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sstar97&layout=compact&hide_border=true&theme=radical)](https://github.com/sstar97?tab=repositories) |
-|:-:|:-:|
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=sstar97&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=sstar97&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+</picture>
 
 <p align="center">
   <img alt="sstar97's visitors" src="https://komarev.com/ghpvc/?username=sstar97&color=ca4e33&style=flat&label=visitors" />
