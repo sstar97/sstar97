@@ -4,7 +4,7 @@
 
 <p align="center">- 📝<a href="https://falio.app/" target="blank">[falio.app]</a></p>
 <p align="center">- En İyi Kahve Falı ve Astroloji Uygulaması - Falio</p>
-<p align="center">- Falio: Ruh Eşi ve Kahve Falı<a href="[https://github.com/](https://play.google.com/store/apps/details?id=com.falio.ucyildiz)" target="blank">[Falio: Google Play]</a></p>
+<p align="center">- Falio: Ruh Eşi ve Kahve Falı<a href="https://play.google.com/store/apps/details?id=com.falio.ucyildiz" target="blank">[Falio: Google Play]</a></p>
 
 <p align="center">- 📫 How to reach me **semihyildiz1997@gmail.com**</p>
 
