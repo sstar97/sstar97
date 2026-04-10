@@ -16,7 +16,7 @@
 <h3 align="center">Support:</h3>
 <p align="center"><a href="https://www.buymeacoffee.com/smhyilthez"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="smhyilthez" /></a></p><br><br>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sstar97&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=sstar97&show_icons=true&theme=transparent)
 
 <p align="center">
   <img alt="sstar97's visitors" src="https://komarev.com/ghpvc/?username=sstar97&color=ca4e33&style=flat&label=visitors" />
