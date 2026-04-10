@@ -2,7 +2,7 @@
 
 <p align="center"> <a href="https://twitter.com/smhyilthez" target="blank"><img src="https://img.shields.io/twitter/follow/smhyilthez?logo=twitter&style=for-the-badge" alt="smhyilthez" /></a> </p>
 
-<p align="center">- 📝 I regularly write articles on <a href="https://www.baglantisiz.com/" target="blank">[www.baglantisiz.com]</a></p>
+<p align="center">- 📝<a href="https://falio.app/" target="blank">[falio.app]</a></p>
 
 <p align="center">- 📫 How to reach me **semihyildiz1997@gmail.com**</p>
 
